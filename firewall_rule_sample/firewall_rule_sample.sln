@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "firewall_rule_sample", "firewall_rule_sample\firewall_rule_sample.vcxproj", "{673491F8-3958-4CF8-91B1-43CA588117F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Debug|x64.ActiveCfg = Debug|x64
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Debug|x64.Build.0 = Debug|x64
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Debug|x86.ActiveCfg = Debug|Win32
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Debug|x86.Build.0 = Debug|Win32
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Release|x64.ActiveCfg = Release|x64
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Release|x64.Build.0 = Release|x64
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Release|x86.ActiveCfg = Release|Win32
+		{673491F8-3958-4CF8-91B1-43CA588117F0}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7D9A5DF-EE3F-41B9-82F4-221738621021}
+	EndGlobalSection
+EndGlobal
